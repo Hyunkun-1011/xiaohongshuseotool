@@ -1,0 +1,3 @@
+/api/doubao/*  https://ark.cn-beijing.volces.com/api/text/:splat  200  Access-Control-Allow-Origin=*
+/api/deepseek/*  https://api.deepseek.com/:splat  200  Access-Control-Allow-Origin=*
+/*  /index.html  200
